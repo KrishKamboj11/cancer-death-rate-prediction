@@ -15,3 +15,5 @@ factors in determining cancer death rates.
 ## Libraries Used
 Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
+## Dataset
+Download the dataset from Kaggle: https://www.kaggle.com/datasets/varunraskar/cancer-regression/data
